@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/CC">
+        <file>images/ccExit.png</file>
+        <file>images/ccMinus.png</file>
+        <file>images/ccPlus.png</file>
+    </qresource>
+</RCC>
